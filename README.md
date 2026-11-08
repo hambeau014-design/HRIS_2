@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# HRIS 인사 관리 시스템 구현 중
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
 
